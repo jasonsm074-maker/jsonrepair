@@ -1,15 +1,1 @@
-{
-  "presets": [
-    [
-      "@babel/env",
-      {
-        "targets": {
-          "browsers": "> 0.25%, not dead"
-        },
-        "modules": false
-      }
-    ],
-    ["@babel/preset-typescript"]
-  ],
-  "ignore": ["src/**/*.test.ts"]
-}
+
